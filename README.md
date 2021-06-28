@@ -10,8 +10,8 @@
 - [Php ^7.3](https://www.php.net/)
 ## Installation
 ```sh
-git clone https://gitlab.com/JavierPinzon34/pruebacidenet.git
-cd pruebacidenet/
+git clone https://github.com/JavierPinzon34/PruebaVenko.git
+cd PruebaVenko/
 cp .env.example .env (config conection DB)
 composer install
 php artisan key:generate
