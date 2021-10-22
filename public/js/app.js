@@ -43253,7 +43253,7 @@ var render = function() {
                         }
                       }
                     },
-                    [_vm._v("\n              New Medic\n            ")]
+                    [_vm._v("\n              New Patient\n            ")]
                   ),
                   _vm._v(" "),
                   _c("input", {

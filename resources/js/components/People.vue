@@ -112,7 +112,7 @@
                 data-target="#userModal"
                 @click="showModal()"
               >
-                New Medic
+                New Patient
               </button>
               <input
                 type="text"
