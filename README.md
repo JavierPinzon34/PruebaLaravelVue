@@ -10,14 +10,14 @@
 - [Php ^7.3](https://www.php.net/)
 ## Installation
 ```sh
-git clone https://github.com/JavierPinzon34/PruebaVenko.git
-cd PruebaVenko/
+git clone https://github.com/JavierPinzon34/PruebaLaravelVue.git
+cd PruebaLaravelVue/
 cp .env.example .env (config conection DB)
 composer install
 php artisan key:generate
 php artisan migrate --seed
 npm install
-npm run build
+npm run dev
 php artisan serve
 http://127.0.0.1:8000
 ```
